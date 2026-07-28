@@ -138,7 +138,7 @@ export default function Footer() {
                   <p className="mb-0.5 uppercase tracking-wider text-white/40">
                     Email
                   </p>
-                  <p className="text-white/80">tina@mars-vn.com</p>
+                  <p className="text-white/80">sales2@mars-vn.com</p>
                 </div>
               </div>
 
@@ -159,7 +159,7 @@ export default function Footer() {
                   <p className="mb-0.5 uppercase tracking-wider text-white/40">
                     Hotline
                   </p>
-                  <p className="text-white/80">0903 731 769</p>
+                  <p className="text-white/80">0904 369 423</p>
                 </div>
               </div>
             </div>

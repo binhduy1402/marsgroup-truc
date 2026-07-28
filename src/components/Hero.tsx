@@ -66,7 +66,7 @@ export default function Hero({
                   href="tel:0903731769"
                   className="mt-1 text-[1.3rem] font-bold leading-none text-[#7c142b]"
                 >
-                  0903 731 769
+                  0904 369 423
                 </a>
               </div>
 
