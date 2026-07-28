@@ -70,7 +70,7 @@ export default function About() {
           </span>
 
           <h2 className="text-charcoal-text mt-3 font-serif text-3xl font-bold sm:text-4xl">
-            Fesgift Qua Những Con Số
+            Mars Group Qua Những Con Số
           </h2>
 
           <p className="text-charcoal-text/70 mx-auto mt-4 max-w-2xl text-sm leading-relaxed">
