@@ -159,7 +159,7 @@ export default function Footer() {
                   <p className="mb-0.5 uppercase tracking-wider text-white/40">
                     Hotline
                   </p>
-                  <p className="text-white/80">0904 369 423</p>
+                  <p className="text-white/80">0904 369 423 - Ms. Trúc</p>
                 </div>
               </div>
             </div>
