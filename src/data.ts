@@ -101,7 +101,7 @@ description:
 "Welcome Kit, quà sinh nhật, lễ tết và các chương trình nội bộ giúp nâng cao trải nghiệm nhân sự.",
 image: collection4,
 url: "https://fesgift.com/qua-tang-doanh-nghiep/qua-gan-ket-doi-ngu/",
-badge: "NỘI BỘ",
+badge: "ĐỘI NGŨ",
 highlights: [
 "Welcome Kit",
 "Quà sinh nhật nhân viên",

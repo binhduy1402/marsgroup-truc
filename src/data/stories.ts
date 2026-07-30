@@ -56,9 +56,9 @@ export const stories: Story[] = [
     id: 3,
     title: "Sự chăm chút của Mars Group",
     cardTitle: "Sự chăm chút của Mars Group",
-    cardImage: story3,
+    cardImage: story3_4,
     tag: "Nội bộ",
-    images: [story3_2, story3_3, story3_4, story3_5],
+    images: [story3_4],
     imageFit: "cover",
     description:
       "Phía sau mỗi sản phẩm là những ngày làm việc khẩn trương của đội ngũ Mars Group. Khi thời gian gấp rút, các bộ phận luôn sát cánh hỗ trợ nhau để hoàn thành từng công đoạn đúng kế hoạch, từ sản xuất, kiểm tra chất lượng đến đóng gói. Chính tinh thần đồng đội ấy giúp mỗi đơn hàng được bàn giao đúng tiến độ mà vẫn giữ trọn sự chỉn chu trong từng chi tiết.",
